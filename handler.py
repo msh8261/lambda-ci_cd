@@ -4,7 +4,7 @@ import pyjokes
 
 def get_joke(event, context):
     body = {
-        "message": "@@@ Greetings from Github. Enjoy the jokes build here :)",
+        "message": "(@ @) Greetings from Github. Best jokes never you heard :)",
         "joke":pyjokes.get_joke()
     }
     response = {
