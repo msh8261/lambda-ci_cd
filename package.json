@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-aws-lambda-python",
+  "name": "simple_CI_CD_pipeline",
   "description": "",
   "version": "0.1.0",
   "dependencies": {},
