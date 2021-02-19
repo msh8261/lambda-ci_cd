@@ -18,4 +18,4 @@ var/
 node_modules
 # Serverless directories
 .serverless
-*.txt
+run_deploy.txt
